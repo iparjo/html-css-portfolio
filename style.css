@@ -35,6 +35,8 @@ header {
     font-style: normal;
     padding: 1%;
     width: 100%;
+    position: fixed;
+    top: 0px;
 }
 
 header a {
